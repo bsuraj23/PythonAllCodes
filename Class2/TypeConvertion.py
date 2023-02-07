@@ -6,6 +6,8 @@ a = 90
 b = 90.78787
 c = "a"
 d = "IamABigWord"
+boolean = True
+print("boolean value is ", boolean)
 
 print("a value is ", a)
 print("a value is " + str(a))
